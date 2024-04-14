@@ -4,7 +4,7 @@ def calculate_speed_distance_time():
     print(" Speed")
     print(" Distance")
     print(" Time")
-    choice = input("Enter your choice (1/2/3): ")
+    choice = input("Enter your choice : ")
 
     if choice == 'speed':
         distance = float(input("Enter distance (in units): "))
